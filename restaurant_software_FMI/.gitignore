@@ -1,0 +1,96 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.dSYM/
+*.stackdump
+*.core
+
+# Build directories
+/build/
+/bin/
+/debug/
+/release/
+/dist/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.pid
+*.seed
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.bak
+*.swm
+*.directory
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.ncb
+*.suo
+*.pdb
+*.idb
+*.opendb
+*.tlog
+*.lastbuildstate
+*.user
+*.unsuccessfulbuild
+*.unsuccessfulbuild.gz
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Qt Creator
+*.pro.user
+*.qmake.stash
+*.pro.user.*
+
+# GCC, Clang, and other compiler files
+*.d
+*.gcno
+*.gcda
+*.gcov
+
+# Backup and archive files
+*.tar
+*.gz
+*.zip
+*.7z
+*.bz2
+*.rar
+*.bak
+
+# Other files and directories
+*.DS_Store
+Thumbs.db
+*.class
+*.iml
+*.pyc
+*.pyo
+*.pyd
